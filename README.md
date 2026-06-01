@@ -1,6 +1,8 @@
 # Blinkit Sales Analysis Using SQL
 
 ## Project Overview
+<img width="798" height="488" alt="image" src="https://github.com/user-attachments/assets/3c7ea59b-4248-481d-af6b-d5352118aceb" />
+
 
 This project analyses Blinkit's sales performance, customer preferences, and outlet performance using SQL Server. The objective was to transform raw transactional data into meaningful business insights that support strategic decision-making.
 
