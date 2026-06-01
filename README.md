@@ -30,7 +30,6 @@ Blinkit operates multiple outlet types across different locations and product ca
 * Average Sales
 * Number of Items Sold
 * Average Rating
-  <img width="604" height="208" alt="KPI&#39;s 1" src="https://github.com/user-attachments/assets/30a3ed98-c93a-4fd2-a2fe-61a558a6075f" />
 
 
 ## Analysis Areas
