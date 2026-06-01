@@ -1,7 +1,6 @@
 # Blinkit Sales Analysis Using SQL
 
 ## Project Overview
-<img width="798" height="488" alt="image" src="https://github.com/user-attachments/assets/3c7ea59b-4248-481d-af6b-d5352118aceb" />
 
 
 This project analyses Blinkit's sales performance, customer preferences, and outlet performance using SQL Server. The objective was to transform raw transactional data into meaningful business insights that support strategic decision-making.
@@ -15,6 +14,7 @@ Blinkit operates multiple outlet types across different locations and product ca
 * SQL Server Management Studio (SSMS)
 * SQL
 * CSV Dataset
+<img width="798" height="488" alt="image" src="https://github.com/user-attachments/assets/398d1557-d04f-4924-b816-4041698b6527" />
 
 ## Project Workflow
 
@@ -30,6 +30,8 @@ Blinkit operates multiple outlet types across different locations and product ca
 * Average Sales
 * Number of Items Sold
 * Average Rating
+  <img width="604" height="208" alt="KPI&#39;s 1" src="https://github.com/user-attachments/assets/30a3ed98-c93a-4fd2-a2fe-61a558a6075f" />
+
 
 ## Analysis Areas
 
